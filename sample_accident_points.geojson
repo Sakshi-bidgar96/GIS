@@ -1,0 +1,185 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "severity": "High",
+        "road_name": "Panvel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.117,
+          18.991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "severity": "Medium",
+        "road_name": "Pen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.096,
+          18.742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "severity": "High",
+        "road_name": "Alibag"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.873,
+          18.641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "severity": "Low",
+        "road_name": "Roha"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.119,
+          18.438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "severity": "Medium",
+        "road_name": "Mangaon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.285,
+          18.23
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "severity": "High",
+        "road_name": "Mahad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.423,
+          18.083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7,
+        "severity": "Medium",
+        "road_name": "Karjat"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.323,
+          18.911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8,
+        "severity": "High",
+        "road_name": "Khopoli"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.345,
+          18.79
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9,
+        "severity": "Low",
+        "road_name": "Panvel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.105,
+          18.965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10,
+        "severity": "Medium",
+        "road_name": "Alibag"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.885,
+          18.65
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11,
+        "severity": "High",
+        "road_name": "Pen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.11,
+          18.75
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12,
+        "severity": "Low",
+        "road_name": "Mahad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.415,
+          18.095
+        ]
+      }
+    }
+  ]
+}
